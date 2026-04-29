@@ -18,7 +18,7 @@ export const navLinks = [
           links: ['Daily Puja', 'Meditation', 'Mosquito Repellent', 'Gifting Packs'] 
         }
       ],
-      image: '/src/images/herbal_agarbathi_category_1777263501880.png'
+      image: '/images/herbal_agarbathi_category_1777263501880.png'
     }
   },
   { 
@@ -39,7 +39,7 @@ export const navLinks = [
           links: ['23-Herbal Vibhoothi', 'Herbal Kumkum Powder', 'Cow Dung Powder', 'Rose Water'] 
         }
       ],
-      image: '/src/images/panchakavya_products_category_1777263520616.png'
+      image: '/images/panchakavya_products_category_1777263520616.png'
     }
   },
   { 
@@ -56,7 +56,7 @@ export const navLinks = [
           links: ['Rose Water (200ml)', 'Rose Water (500ml)', 'Rose Water (1 Litre)', 'Herbal Body Wash'] 
         }
       ],
-      image: '/src/images/rose_water_category_1777263539013.png'
+      image: '/images/rose_water_category_1777263539013.png'
     }
   },
   { label: 'Gifting', href: '/category/gift-packs' },
@@ -64,9 +64,9 @@ export const navLinks = [
 ]
 
 export const slides = [
-  { id: 1, image: '/src/images/hero1.jpeg', bg: '#fdfaf6' },
-  { id: 2, image: '/src/images/hero2.jpeg', bg: '#f0fcf4' },
-  { id: 3, image: '/src/images/hero3.jpeg', bg: '#fff5ee' },
+  { id: 1, image: '/images/hero1.jpeg', bg: '#fdfaf6' },
+  { id: 2, image: '/images/hero2.jpeg', bg: '#f0fcf4' },
+  { id: 3, image: '/images/hero3.jpeg', bg: '#fff5ee' },
 ]
 
 export const products = [
@@ -87,7 +87,7 @@ export const products = [
     bg: '#f3faf0',
     icon: 'Leaf',
     desc: 'Infused with Panchakavya, neem leaves, bilwa leaves, and a rich earthy forest blend. Charcoal-free, hand-rolled with sacred herbs for Vastu harmony.',
-    image: '/src/images/herbal_agarbathi_category_1777263501880.png',
+    image: '/images/herbal_agarbathi_category_1777263501880.png',
     details: ['Hand Rolled', 'Panchakavya Blend', 'Charcoal Free', 'Vastu Agarbathi'],
     weight: '100g'
   },
@@ -105,7 +105,7 @@ export const products = [
     bg: '#f0fdf4',
     icon: 'Flower2',
     desc: 'A unique herbal blend of nutmeg, vettiver, cardamom, and clove crafted to promote positivity and balance in your home. Traditional Panchakavya formula.',
-    image: '/src/images/herbal_agarbathi_category_1777263501880.png',
+    image: '/images/herbal_agarbathi_category_1777263501880.png',
     details: ['Nutmeg & Vettiver', 'Panchakavya Blend', 'Charcoal Free', 'Vastu Agarbathi'],
     weight: '100g'
   },
@@ -123,7 +123,7 @@ export const products = [
     bg: '#f5f0fb',
     icon: 'Sparkles',
     desc: 'Calming lavender fragrance with the power of Panchakavya and rare herbs. Perfect for meditation and restful nights.',
-    image: '/src/images/herbal_agarbathi_category_1777263501880.png',
+    image: '/images/herbal_agarbathi_category_1777263501880.png',
     details: ['Lavender Fragrance', 'Panchakavya Blend', 'Charcoal Free', 'Meditation Grade'],
     weight: '100g'
   },
@@ -142,7 +142,7 @@ export const products = [
     bg: '#fdf8f0',
     icon: 'Sun',
     desc: 'Premium Sandalwood fragrance blended with authentic Panchakavya for deep, devotional puja sessions. Temple-grade purity.',
-    image: '/src/images/herbal_agarbathi_category_1777263501880.png',
+    image: '/images/herbal_agarbathi_category_1777263501880.png',
     details: ['Sandalwood Fragrance', 'Panchakavya Blend', 'Temple Grade', 'Charcoal Free'],
     weight: '100g'
   },
@@ -160,7 +160,7 @@ export const products = [
     bg: '#fff9f0',
     icon: 'Citrus',
     desc: 'Bright orange and herbal blend that uplifts the spirit. Made with fresh citrus extracts and sacred Panchakavya. Ideal for daily puja.',
-    image: '/src/images/herbal_agarbathi_category_1777263501880.png',
+    image: '/images/herbal_agarbathi_category_1777263501880.png',
     details: ['Orange Fragrance', 'Panchakavya Blend', 'Charcoal Free', 'Daily Puja'],
     weight: '100g'
   },
@@ -179,7 +179,7 @@ export const products = [
     bg: '#f0faf3',
     icon: 'Shield',
     desc: 'Herbal mosquito repellent incense made with lemongrass, neem, and Panchakavya. 100% natural, chemical-free protection for your family.',
-    image: '/src/images/herbal_agarbathi_category_1777263501880.png',
+    image: '/images/herbal_agarbathi_category_1777263501880.png',
     details: ['Lemongrass & Neem', 'Mosquito Repellent', 'Chemical Free', 'Safe for Families'],
     weight: '100g'
   },
@@ -200,7 +200,7 @@ export const products = [
     bg: '#f4fbf4',
     icon: 'Flame',
     desc: 'Authentic Panchakavya Cup Sambrani made with sacred cow products and natural resins. Purifies the air, removes negative energy, and elevates your puja space.',
-    image: '/src/images/panchakavya_products_category_1777263520616.png',
+    image: '/images/panchakavya_products_category_1777263520616.png',
     details: ['Cup Sambrani', 'Panchakavya Formula', 'Charcoal Free', 'Air Purifying'],
     weight: 'Pack of 10 Cups'
   },
@@ -218,7 +218,7 @@ export const products = [
     bg: '#f7f5f0',
     icon: 'Wind',
     desc: 'Loose Sambrani dhoop powder crafted with Panchakavya, guggul, and loban resins. Burn on charcoal disc or traditional incense holder for a traditional fragrance.',
-    image: '/src/images/panchakavya_products_category_1777263520616.png',
+    image: '/images/panchakavya_products_category_1777263520616.png',
     details: ['Loose Powder', 'Guggul & Loban', 'Panchakavya', 'Traditional Aroma'],
     weight: '100g'
   },
@@ -240,7 +240,7 @@ export const products = [
     bg: '#ffffff',
     icon: 'Sparkles',
     desc: 'Premium Dhristi camphor tablets for daily Aarti and spiritual rituals. Burns clean with no residue. Ideal for removing negative energy and dosha.',
-    image: '/src/images/camphor_category_1777263590488.png',
+    image: '/images/camphor_category_1777263590488.png',
     details: ['25g Pack', 'Dhristi Camphor', 'Clean Burn', 'No Residue'],
     weight: '25g'
   },
@@ -259,7 +259,7 @@ export const products = [
     bg: '#ffffff',
     icon: 'Sparkles',
     desc: 'Value pack of pure Dhristi camphor tablets. Ideal for temples and daily home use. Burns completely without residue.',
-    image: '/src/images/camphor_category_1777263590488.png',
+    image: '/images/camphor_category_1777263590488.png',
     details: ['50g Pack', 'Dhristi Camphor', 'Clean Burn', 'Temple Grade'],
     weight: '50g'
   },
@@ -278,7 +278,7 @@ export const products = [
     bg: '#ffffff',
     icon: 'Sparkles',
     desc: 'Economy pack of premium Dhristi camphor for temples and large households. Consistent quality in every tablet.',
-    image: '/src/images/camphor_category_1777263590488.png',
+    image: '/images/camphor_category_1777263590488.png',
     details: ['100g Pack', 'Dhristi Camphor', 'Economy Pack', 'Temple & Home'],
     weight: '100g'
   },
@@ -297,7 +297,7 @@ export const products = [
     bg: '#ffffff',
     icon: 'Sparkles',
     desc: 'Large 200g bulk pack of pure Dhristi camphor for temples, institutions, and large families. Best value.',
-    image: '/src/images/camphor_category_1777263590488.png',
+    image: '/images/camphor_category_1777263590488.png',
     details: ['200g Pack', 'Bulk Value', 'Temple Grade', 'Best Value'],
     weight: '200g'
   },
@@ -317,7 +317,7 @@ export const products = [
     bg: '#f8f8f8',
     icon: 'Wind',
     desc: 'Sacred Vibhoothi prepared with 23 rare herbs and pure cow dung ash following ancient Siddha traditions. Used for daily abhishekam and blessing.',
-    image: '/src/images/panchakavya_products_category_1777263520616.png',
+    image: '/images/panchakavya_products_category_1777263520616.png',
     details: ['23 Rare Herbs', 'Pure Cow Dung Ash', 'Siddha Tradition', 'Daily Blessing'],
     weight: '50g'
   },
@@ -335,7 +335,7 @@ export const products = [
     bg: '#fff5f5',
     icon: 'Heart',
     desc: 'Naturally prepared herbal Kumkum powder free from chemical dyes. Made with pure turmeric and sacred herbs. Auspicious for all rituals.',
-    image: '/src/images/panchakavya_products_category_1777263520616.png',
+    image: '/images/panchakavya_products_category_1777263520616.png',
     details: ['Chemical Free', 'Turmeric Based', 'Natural Dye', 'Auspicious'],
     weight: '30g'
   },
@@ -353,7 +353,7 @@ export const products = [
     bg: '#f9fdf9',
     icon: 'Leaf',
     desc: 'Pure herbal cow dung powder processed hygienically for Panchakavya rituals, havan, and Vastu use. Purifies the home environment.',
-    image: '/src/images/panchakavya_products_category_1777263520616.png',
+    image: '/images/panchakavya_products_category_1777263520616.png',
     details: ['Hygienically Processed', 'Panchakavya', 'Vastu Use', 'Havan'],
     weight: '100g'
   },
@@ -371,7 +371,7 @@ export const products = [
     bg: '#fdf2f2',
     icon: 'Flame',
     desc: 'Handcrafted herbal wicks (Agal Vilaku) made from cotton and herbal extracts. Release a gentle natural aroma when lit. 12-piece pack.',
-    image: '/src/images/combos_category.png',
+    image: '/images/combos_category.png',
     details: ['Pack of 12', 'Herbal Cotton Wick', 'Eco-Friendly', 'Gentle Aroma'],
     weight: 'Pack of 12'
   },
@@ -393,7 +393,7 @@ export const products = [
     bg: '#fffbf0',
     icon: 'Sun',
     desc: 'Infused with fresh orange peel extracts and herbal nutrients. Naturally de-tans skin, reduces dark spots and restores a radiant glow. Suitable for all skin types.',
-    image: '/src/images/body_wash_category_1777263606152.png',
+    image: '/images/body_wash_category_1777263606152.png',
     details: ['Orange Peel Extract', 'De-Tanning', 'All Skin Types', 'Herbal Formula'],
     weight: '100ml'
   },
@@ -412,7 +412,7 @@ export const products = [
     bg: '#f1f9f1',
     icon: 'Heart',
     desc: 'Enriched with Avocado oils and Jojoba extracts for intense moisture and softness. Gently cleanses without stripping the skin\'s natural oils.',
-    image: '/src/images/body_wash_category_1777263606152.png',
+    image: '/images/body_wash_category_1777263606152.png',
     details: ['Avocado Extract', 'Jojoba Oil', 'Deep Moisturising', 'Gentle Cleanse'],
     weight: '100ml'
   },
@@ -431,7 +431,7 @@ export const products = [
     bg: '#f0faf8',
     icon: 'Leaf',
     desc: 'Formulated with pure Tea Tree oil and herbal extracts to control excess oil, fight acne-causing bacteria, and keep your skin clear and refreshed.',
-    image: '/src/images/body_wash_category_1777263606152.png',
+    image: '/images/body_wash_category_1777263606152.png',
     details: ['Tea Tree Oil', 'Acne Control', 'Oil Balancing', 'Antibacterial'],
     weight: '100ml'
   },
@@ -450,7 +450,7 @@ export const products = [
     bg: '#fff0f5',
     icon: 'Flower2',
     desc: 'Hibiscus is nature\'s AHA. This face wash gently exfoliates, brightens dull skin, and promotes an even complexion. Rich in antioxidants.',
-    image: '/src/images/body_wash_category_1777263606152.png',
+    image: '/images/body_wash_category_1777263606152.png',
     details: ['Hibiscus Extract', 'Natural AHA', 'Brightening', 'Antioxidant Rich'],
     weight: '100ml'
   },
@@ -472,7 +472,7 @@ export const products = [
     bg: '#fff5f8',
     icon: 'Flower2',
     desc: 'Pure steam-distilled rose water. A natural toner, skin refresher, and hair conditioner. Use after face wash or for cooking. 100% chemical free.',
-    image: '/src/images/rose_water_category_1777263539013.png',
+    image: '/images/rose_water_category_1777263539013.png',
     details: ['Steam Distilled', 'No Chemicals', 'Toner & Mist', 'Food Grade'],
     weight: '200ml'
   },
@@ -491,7 +491,7 @@ export const products = [
     bg: '#fff5f8',
     icon: 'Flower2',
     desc: 'Economy 500ml bottle of pure steam-distilled rose water. Multi-purpose — use as a skin toner, hair mist, or in cooking. No preservatives added.',
-    image: '/src/images/rose_water_category_1777263539013.png',
+    image: '/images/rose_water_category_1777263539013.png',
     details: ['Steam Distilled', 'No Preservatives', 'Skin & Hair', 'Multi-Purpose'],
     weight: '500ml'
   },
@@ -510,7 +510,7 @@ export const products = [
     bg: '#fff5f8',
     icon: 'Flower2',
     desc: 'Large 1-litre family pack of pure herbal rose water. Perfect for daily skincare, pooja use, and cooking. Best value for families.',
-    image: '/src/images/rose_water_category_1777263539013.png',
+    image: '/images/rose_water_category_1777263539013.png',
     details: ['1 Litre Pack', 'Steam Distilled', 'Best Value', 'Family Size'],
     weight: '1 Litre'
   },
@@ -531,7 +531,7 @@ export const products = [
     bg: '#fff5f5',
     icon: 'Gift',
     desc: 'A beautifully curated gift box containing Agarbatti, Panchakavya Cup Sambrani, Dhristi Camphor, Herbal Kumkum, and Vibhoothi. Perfect for festivals and housewarming.',
-    image: '/src/images/combos_category.png',
+    image: '/images/combos_category.png',
     details: ['5 Items Inside', 'Premium Gift Box', 'Festival Ready', 'Free Gift Wrap'],
     weight: 'Combo Pack'
   },
@@ -549,7 +549,7 @@ export const products = [
     bg: '#f3faf0',
     icon: 'Gift',
     desc: 'Discover all 6 Panchakavya Herbal Vastu Agarbathi fragrances in one gift pack — Jungle of Woods, Giggling of Herbs, Little Lavender, Absolute Sandal, Orange, and Mosquito Repellent.',
-    image: '/src/images/combos_category.png',
+    image: '/images/combos_category.png',
     details: ['6 Fragrances', 'Mini Packs', 'Charcoal Free', 'Premium Box'],
     weight: '6 × 25g Packs'
   },

@@ -81,10 +81,10 @@ function Stars({ count }) {
 function HeroCarousel() {
   const [current, setCurrent] = useState(0)
   const slides = [
-    { image: '/src/images/1.png' },
-    { image: '/src/images/2.png' },
-    { image: '/src/images/3.png' },
-    { image: '/src/images/4.png' }
+    { image: '/images/1.png' },
+    { image: '/images/2.png' },
+    { image: '/images/3.png' },
+    { image: '/images/4.png' }
   ]
 
   useEffect(() => {
@@ -197,12 +197,12 @@ export default function Home({ searchTerm = '', onCheckout }) {
   }
 
   const categories = [
-    { name: "Combo's", image: '/src/images/combos_category.png', link: '/category/gift-packs' },
-    { name: 'Herbal Agarbathi', image: '/src/images/herbal_agarbathi_category_1777263501880.png', link: '/category/agarbatti' },
-    { name: 'Panchakavya Products', image: '/src/images/panchakavya_products_category_1777263520616.png', link: '/category/pooja-essentials' },
-    { name: 'Rose Water', image: '/src/images/rose_water_category_1777263539013.png', link: '/category/rose-water' },
-    { name: 'Camphor', image: '/src/images/camphor_category_1777263590488.png', link: '/category/camphor' },
-    { name: 'Body Wash', image: '/src/images/body_wash_category_1777263606152.png', link: '/category/body-wash' },
+    { name: "Combo's", image: '/images/combos_category.png', link: '/category/gift-packs' },
+    { name: 'Herbal Agarbathi', image: '/images/herbal_agarbathi_category_1777263501880.png', link: '/category/agarbatti' },
+    { name: 'Panchakavya Products', image: '/images/panchakavya_products_category_1777263520616.png', link: '/category/pooja-essentials' },
+    { name: 'Rose Water', image: '/images/rose_water_category_1777263539013.png', link: '/category/rose-water' },
+    { name: 'Camphor', image: '/images/camphor_category_1777263590488.png', link: '/category/camphor' },
+    { name: 'Body Wash', image: '/images/body_wash_category_1777263606152.png', link: '/category/body-wash' },
   ]
 
   return (

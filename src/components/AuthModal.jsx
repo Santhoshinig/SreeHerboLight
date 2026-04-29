@@ -22,7 +22,7 @@ export default function AuthModal({ isOpen, onClose, onLogin }) {
         
         <div className="auth-header">
           <div className="auth-logo">
-            <img src="/src/images/logo.webp" alt="Logo" />
+            <img src="/images/logo.webp" alt="Logo" />
           </div>
           <h2>{isLogin ? 'Welcome Back' : 'Create Account'}</h2>
           <p>{isLogin ? 'Sign in to continue to Sree HerboLight' : 'Join us for a pure spiritual journey'}</p>

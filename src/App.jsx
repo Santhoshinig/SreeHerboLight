@@ -102,7 +102,7 @@ function Header({ onOpenDrawer, onSearch, user, onOpenAuth }) {
       <div className="header-main-row-pro">
         <div className="header-inner-pro">
           <Link to="/" className="site-logo-pro">
-            <img src="/src/images/logo.webp" alt="Sree HerboLight" className="header-logo-img-pro" />
+            <img src="/images/logo.webp" alt="Sree HerboLight" className="header-logo-img-pro" />
           </Link>
 
           <div className="header-search-pro">
@@ -240,7 +240,7 @@ function Footer({ onOpenDrawer }) {
         <div className="footer-inner">
           <div className="footer-brand-col">
             <Link to="/" className="footer-logo">
-              <img src="/src/images/logo.webp" alt="Sree HerboLight" className="footer-logo-img" />
+              <img src="/images/logo.webp" alt="Sree HerboLight" className="footer-logo-img" />
             </Link>
             <p className="footer-brand-desc">
               Sacred aromatics crafted from nature's finest — for your home, pooja room, and the people you love.
