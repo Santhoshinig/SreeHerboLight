@@ -2278,7 +2278,7 @@ ul { list-style: none; }
   position: fixed;
   inset: 0;
   background: rgba(0,0,0,0.7);
-  z-index: 2000;
+  z-index: 99999;
   display: grid;
   place-items: center;
   padding: 20px;
@@ -2716,7 +2716,7 @@ ul { list-style: none; }
   height: 100%;
   background: rgba(0,0,0,0.3);
   backdrop-filter: blur(4px);
-  z-index: 2000;
+  z-index: 99999;
   display: flex;
   justify-content: flex-end;
 }
@@ -3222,7 +3222,7 @@ ul { list-style: none; }
   border-bottom: 1px solid #e2e8f0;
   padding-bottom: 24px;
   position: relative;
-  z-index: 9999; /* Higher than any product card */
+  z-index: 100; /* Higher than any product card */
 }
 
 .filter-row-main {
